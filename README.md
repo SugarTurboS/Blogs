@@ -9,6 +9,13 @@
 ![](https://img.shields.io/badge/Category-Webpack-inactive.svg)
 ![](https://img.shields.io/badge/license-MIT-yellow.svg)
 
+## 最新文章
+
+- [浅谈前端设计模式](https://github.com/SugarTurboS/Blogs/issues/38)
+- [Redux源码解读与编程艺术](https://github.com/SugarTurboS/Blogs/issues/39)
+- [查缺补漏React状态管理](https://github.com/SugarTurboS/Blogs/issues/40)
+- [Hox实践感受及简陋版的dev-tools](https://github.com/SugarTurboS/Blogs/issues/41)
+
 ## Electron
 
 - [Electron 系列文章-什么是 Electron?](https://github.com/SugarTurboS/Blogs/issues/4)
