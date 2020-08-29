@@ -10,7 +10,8 @@
 ![](https://img.shields.io/badge/license-MIT-yellow.svg)
 
 ## 最新文章
-
+- [rc-redux-model](https://github.com/SugarTurboS/Blogs/issues/43)
+- [公式软键盘](https://github.com/SugarTurboS/Blogs/issues/42)
 - [浅谈前端设计模式](https://github.com/SugarTurboS/Blogs/issues/38)
 - [Redux源码解读与编程艺术](https://github.com/SugarTurboS/Blogs/issues/39)
 - [查缺补漏React状态管理](https://github.com/SugarTurboS/Blogs/issues/40)
@@ -26,6 +27,8 @@
 
 ## React
 
+- [rc-redux-model](https://github.com/SugarTurboS/Blogs/issues/43)
+- [公式软键盘](https://github.com/SugarTurboS/Blogs/issues/42)
 - [Mobx 初探](https://github.com/SugarTurboS/Blogs/issues/11)
 - [React 单元测试实战](https://github.com/SugarTurboS/Blogs/issues/24) `· new`
 - [React 中如何优雅的使用 UEditor](https://github.com/SugarTurboS/Blogs/issues/9) `· new`
