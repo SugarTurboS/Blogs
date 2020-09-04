@@ -10,12 +10,12 @@
 ![](https://img.shields.io/badge/license-MIT-yellow.svg)
 
 ## 最新文章
-- [rc-redux-model](https://github.com/SugarTurboS/Blogs/issues/43)
+
+- [你还在为项目里的重复请求发愁吗?](https://github.com/SugarTurboS/Blogs/issues/44) `· new`
+- [rc-redux-model](https://github.com/SugarTurboS/Blogs/issues/43) `· new`
 - [公式软键盘](https://github.com/SugarTurboS/Blogs/issues/42)
 - [浅谈前端设计模式](https://github.com/SugarTurboS/Blogs/issues/38)
 - [Redux源码解读与编程艺术](https://github.com/SugarTurboS/Blogs/issues/39)
-- [查缺补漏React状态管理](https://github.com/SugarTurboS/Blogs/issues/40)
-- [Hox实践感受及简陋版的dev-tools](https://github.com/SugarTurboS/Blogs/issues/41)
 
 ## Electron
 
@@ -30,8 +30,8 @@
 - [rc-redux-model](https://github.com/SugarTurboS/Blogs/issues/43)
 - [公式软键盘](https://github.com/SugarTurboS/Blogs/issues/42)
 - [Mobx 初探](https://github.com/SugarTurboS/Blogs/issues/11)
-- [React 单元测试实战](https://github.com/SugarTurboS/Blogs/issues/24) `· new`
-- [React 中如何优雅的使用 UEditor](https://github.com/SugarTurboS/Blogs/issues/9) `· new`
+- [React 单元测试实战](https://github.com/SugarTurboS/Blogs/issues/24) 
+- [React 中如何优雅的使用 UEditor](https://github.com/SugarTurboS/Blogs/issues/9) 
 - [实战·使用 taro+云开发快速开发小程序](https://github.com/SugarTurboS/Blogs/issues/32)
 - [聊聊 React v16.3 的 UNSAFE 类生命周期](https://github.com/SugarTurboS/Blogs/issues/21)
 
@@ -54,18 +54,19 @@
 - [ThreadLocal 用法及原理](https://github.com/SugarTurboS/Blogs/issues/30)
 - [谈一谈 Spring-Mybatis 在多数据源配置上的坑](https://github.com/SugarTurboS/Blogs/issues/37)
 - [后台接收 Json 请求参数兼容数组和单个对象](https://github.com/SugarTurboS/Blogs/issues/34)
-- [带你从 0 到 1 撸一个简单版的模块化服务系统 ](https://github.com/SugarTurboS/Blogs/issues/19) `· new`
+- [带你从 0 到 1 撸一个简单版的模块化服务系统 ](https://github.com/SugarTurboS/Blogs/issues/19) 
 
 ## Web
 
+- [你还在为项目里的重复请求发愁吗?](https://github.com/SugarTurboS/Blogs/issues/44) `· new`
 - [迭代器的含义及用法](https://github.com/SugarTurboS/Blogs/issues/15)
-- [html5 录音功能实战](https://github.com/SugarTurboS/Blogs/issues/23) `· new`
+- [html5 录音功能实战](https://github.com/SugarTurboS/Blogs/issues/23) 
 - [Web 调试技术详解](https://github.com/SugarTurboS/Blogs/issues/26)
 - [前端图片裁剪实战](https://github.com/SugarTurboS/Blogs/issues/25)  `· fix`
 - [iframe 跨域的几种常用方法](https://github.com/SugarTurboS/Blogs/issues/33)
 - [前端实现文件下载和拖拽上传](https://github.com/SugarTurboS/Blogs/issues/10)
 - [前端对接微信分享功能完全指南](https://github.com/SugarTurboS/Blogs/issues/22)
-- [聊聊前端项目构建的现状与想法](https://github.com/SugarTurboS/Blogs/issues/20) `· new`
+- [聊聊前端项目构建的现状与想法](https://github.com/SugarTurboS/Blogs/issues/20) 
 - [HTML5 拍照、摄像机功能实战](https://github.com/SugarTurboS/Blogs/issues/18)
 - [关于前端组件化、状态管理规范化的思考](https://github.com/SugarTurboS/Blogs/issues/17) `· hot`
 - [基于 RecordRTC 的安卓端上传录像优化](https://github.com/SugarTurboS/Blogs/issues/28)
